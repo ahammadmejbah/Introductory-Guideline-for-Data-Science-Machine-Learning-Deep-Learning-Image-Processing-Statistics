@@ -181,3 +181,59 @@ Common types of models and their typical use cases:
 8. **Deployment**: Once the model is trained and evaluated satisfactorily, it can be deployed in a real-world environment for practical use.
 
 9. **Monitoring and Maintenance**: Continuously monitor the model's performance in the real world. Be prepared to retrain the model with new data, or make adjustments as necessary, to maintain its accuracy and effectiveness over time.
+
+# Performance Analysis 📈🔍📊
+
+1. Confusion Matrix
+2. Accuracy
+3. Precision
+4. Recall
+5. F1 Score
+6. ROC Curve
+7. Area Under the ROC Curve (AUC-ROC)
+8. Precision-Recall Curve
+9. Area Under the Precision-Recall Curve (AUC-PR)
+10. Matthews Correlation Coefficient (MCC)
+11. Cohen's Kappa
+12. True Positive Rate (Sensitivity or Recall)
+13. True Negative Rate (Specificity)
+14. False Positive Rate
+15. False Negative Rate
+16. Receiver Operating Characteristic (ROC) Analysis
+17. Precision-Recall Tradeoff
+18. Classification Report
+19. Cross-Validation
+20. Learning Curve Analysis
+21. Stratified K-Fold Cross-Validation
+22. Leave-One-Out Cross-Validation (LOOCV)
+23. Grid Search
+24. Random Search
+25. Hyperparameter Tuning
+26. Feature Importance Analysis
+27. Feature Selection Techniques
+28. Bias-Variance Tradeoff
+29. Ensemble Methods Evaluation
+30. Model Calibration
+31. Calibration Curve
+32. Log Loss
+33. Cohen's D
+34. A/B Testing
+35. Fairness and Bias Analysis
+36. Cost-Sensitive Learning
+37. Time Complexity Analysis
+38. Explainability Techniques
+39. LIME (Local Interpretable Model-agnostic Explanations)
+40. SHAP (SHapley Additive exPlanations)
+
+# Top 10 Best Data Science Books 📈🔍📊
+
+1. <a href="https://github.com/BytesOfIntelligences/Data-Science-Book-Collections/blob/main/The%20elements%20of%20statistical%20learning.pdf">The Elements of Statistical Learning by Trevor Hastie, Robert Tibshirani, and Jerome Friedman </a>
+2. <a href="https://github.com/BytesOfIntelligences/Data-Science-Book-Collections/blob/main/Data%20Science%20for%20Business.pdf">Data Science for Business by Foster Provost and Tom Fawcett</a>
+3. <a href="https://github.com/BytesOfIntelligences/Data-Science-Book-Collections/blob/main/Python_for_Data_Analysis.pdf">Python for Data Analysis by Wes McKinney</a>
+4. <a href="">Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow" by Aurélien Géron</a>
+5. <a href="https://github.com/BytesOfIntelligences/Data-Science-Book-Collections/blob/main/Data%20Science%20from%20Scratch.pdf">Data Science from Scratch by Joel Grus</a>
+6. <a href="https://github.com/BytesOfIntelligences/Data-Science-Book-Collections/blob/main/Data%20Science%20For%20Dummies.pdf">Data Science For Dummies</a>
+7. <a href="https://github.com/BytesOfIntelligences/Data-Science-Book-Collections/blob/main/Ng-Machine%20learning%20yearning.pdf">Machine Learning Yearning by Andrew Ng</a>
+8. <a href="https://github.com/BytesOfIntelligences/Machine-Learning-Book-Collections/blob/main/Books/Introducing%20Data%20Science_%20Big%20Data%2C%20Machine%20Learning%2C%20and%20more%2C%20using%20Python%20tools%20(1).pdf">Introducing Data Science Big Data, Machine Learning, and more, using Python tools</a>
+9. <a href="https://github.com/BytesOfIntelligences/Data-Science-Book-Collections/blob/main/Deep%20Learning%20with%20Keras%20by%20Antonio%20Gulli.pdf">Deep Learning by Ian Goodfellow, Yoshua Bengio, and Aaron Courville</a>
+10. <a href="https://github.com/BytesOfIntelligences/Data-Science-Book-Collections/blob/main/Storytelling%20with%20Data%20by%20Cole%20Nussbaumer%20Knaflic.pdf">Storytelling with Data by Cole Nussbaumer Knaflic</a>
